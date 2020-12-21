@@ -1,7 +1,9 @@
 # mxf2mp4
 
 the python script is for create a .mp4 from an audio and video in xml
+
 place the xml videos in a folder named "v"
+
 place the xml audios in a folder named "a"
 
 and run the script at the /
