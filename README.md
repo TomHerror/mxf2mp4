@@ -6,7 +6,7 @@ place the xml audios in a folder named "a"
 
 and run the script at the /
 like this
-
+```
 .
 ├── a
 │   ├── 1356AJ00.MXF      -
@@ -16,5 +16,5 @@ like this
 ├── mxf2mp4.py            <------
 └── v
     └── 1356AJ.MXF        <-- video files
-
+```
 contact me for help at tom.leboeuf0798@gmail.com or at @tomherror on twitter
