@@ -15,7 +15,7 @@ like this
 │   ├── 1356AJ01.MXF     |
 │   ├── 1356AJ02.MXF     |    audio files
 │   └── 1356AJ03.MXF      -
-├── mxf2mp4.py            <------
+├── mxf2mp4.py            <------ the python script
 └── v
     └── 1356AJ.MXF        <-- video files
 ```
